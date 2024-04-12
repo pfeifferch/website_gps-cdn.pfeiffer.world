@@ -1,6 +1,6 @@
 remote_theme: PfeifferChPT/indigo-linkinbio
-name: PfeifferCh 
-bio: "<b>Pfeiffer GPS Portal - CDN</b><br>Hosts files that Traccar web app depends on."
+name: "Pfeiffer GPS Portal - CDN" 
+bio: "Hosts files that Traccar web app depends on."
 
 # twitter summary info
 description: Hosts files that Traccar web app depends on..
@@ -8,7 +8,7 @@ description: Hosts files that Traccar web app depends on..
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: logo.svg
+picture: pwa-512x512.png
 
 url: https://gps.pfeiffer.world
 permalink: /:title/
