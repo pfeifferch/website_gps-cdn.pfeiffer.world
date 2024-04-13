@@ -10,6 +10,6 @@ description: Hosts files that Traccar web app depends on..
 external-image: false
 picture: pwa-512x512.png
 
-url: https://gps.pfeiffer.world
+url: https://gps-cdn.pfeiffer.world
 permalink: /:title/
 github: PfeifferCh
